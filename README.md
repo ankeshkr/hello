@@ -1,3 +1,2 @@
 # hello
-repo for cloud 9 exercise. chapter 3 of 4th project
-# Hello from cloud9
+[![CircleCI](https://circleci.com/gh/ankeshkr/hello/tree/main.svg?style=svg)](https://circleci.com/gh/ankeshkr/hello/tree/main)
